@@ -1,5 +1,6 @@
 # Just Another Matter to Energy Mod
 An incomplete mod built with M3EC. Adds one ore, 6 items, and 22 recipes. The ore currently does not generate, I will be fixing this once the fabric documentation updates for 1.17.1.
+CurseForge page: https://www.curseforge.com/minecraft/mc-mods/jamtem
 
 ## FAQ
 
