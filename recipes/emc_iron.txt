@@ -1,0 +1,7 @@
+@:            recipe
+contentid:    emc_iron
+recipe:       ShapelessRecipe
++ingredients: minecraft:iron_ingot
++ingredients: jamtem:emc_2
+result:       minecraft:iron_ingot
+count:        16

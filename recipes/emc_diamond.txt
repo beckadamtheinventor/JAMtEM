@@ -1,0 +1,7 @@
+@:            recipe
+contentid:    emc_diamond
+recipe:       ShapelessRecipe
++ingredients: minecraft:diamond
++ingredients: jamtem:emc_4
+result:       minecraft:diamond
+count:        2

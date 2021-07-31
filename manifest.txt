@@ -1,0 +1,41 @@
+@:            manifest
+
+mod:
+#prefix of mod class namespace
+.prefix:	com
+
+#mod author
+.author:	BeckATI
+
+#mod main class name
+.class:	JAMTEM
+
+#mod title
+.title:	JAMtEM
+
+#mod version number
+.version: 1.0
+
+#mod description
+.description: Just Another Matter-to-Energy Mod
+
+#web url to your mod's homepage
+.homepage:
+
+#web url to your mod's sources
+.sources:
+
+#paths to mod items, blocks, recipes, etc
++.paths:	items
++.paths:	blocks
++.paths:	recipes
++.paths:	ores
+
+#path to mod textures directory.
+.textures: textures
+
+#icon to be displayed on the mod's creative tab, uppercased
+.iconItem: EMC_0
+
+.license: GPL3
+

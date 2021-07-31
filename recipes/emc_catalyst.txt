@@ -1,0 +1,14 @@
+@:            recipe
+contentid:    emc_catalyst
+recipe:       ShapelessRecipe
++ingredients: jamtem:emc_catalyst
++ingredients: minecraft:stick
++ingredients: minecraft:stick
++ingredients: minecraft:stick
++ingredients: minecraft:stick
++ingredients: minecraft:stick
++ingredients: minecraft:stick
++ingredients: minecraft:stick
++ingredients: minecraft:stick
+result:       jamtem:emc_catalyst
+count:        2

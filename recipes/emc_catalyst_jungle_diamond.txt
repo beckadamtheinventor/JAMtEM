@@ -1,0 +1,10 @@
+@:            recipe
+contentid:    emc_catalyst_jungle_diamond
+recipe:       ShapelessRecipe
++ingredients: minecraft:diamond
++ingredients: minecraft:jungle_leaves
++ingredients: minecraft:jungle_leaves
++ingredients: minecraft:jungle_leaves
++ingredients: minecraft:jungle_leaves
+result:       jamtem:emc_catalyst
+count:        64

@@ -1,0 +1,6 @@
+@:            recipe
+contentid:    emc_4a
+recipe:       ShapelessRecipe
++ingredients: jamtem:emc_5
+result:       jamtem:emc_4
+count:        8

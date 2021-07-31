@@ -1,0 +1,7 @@
+@:            recipe
+contentid:    emc_gold
+recipe:       ShapelessRecipe
++ingredients: minecraft:gold_ingot
++ingredients: jamtem:emc_2
+result:       minecraft:gold_ingot
+count:        2

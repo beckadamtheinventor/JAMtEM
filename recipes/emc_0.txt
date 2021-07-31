@@ -1,0 +1,14 @@
+@:            recipe
+contentid:    emc_0b
+recipe:       ShapelessRecipe
++ingredients: jamtem:emc_catalyst
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
++ingredients: minecraft:cobblestone
+result:       jamtem:emc_0
+count:        1

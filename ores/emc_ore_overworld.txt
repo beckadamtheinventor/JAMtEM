@@ -1,0 +1,12 @@
+@:          ore
+ore:
+contentid:  emc_ore_ore
+name:       emc_ore_ore
+title:      emc_ore_ore
+foundin:    Overworld
+miny:      1
+maxy:      24
+vein:
+.block:     ModBlocks.EMC_ORE
+.size:      1
+.perchunk:  10

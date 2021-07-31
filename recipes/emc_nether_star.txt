@@ -1,0 +1,7 @@
+@:            recipe
+contentid:    emc_nether_star
+recipe:       ShapelessRecipe
++ingredients: minecraft:nether_star
++ingredients: jamtem:emc_5
+result:       minecraft:nether_star
+count:        2

@@ -1,0 +1,5 @@
+@:     item
+item:  SimpleItem
+contentid: emc_5
+title: 32768 EMC
+texture: textures/emc_5.png

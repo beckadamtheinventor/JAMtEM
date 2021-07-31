@@ -1,0 +1,18 @@
+@:               block
+block:           SimpleBlock
+blockstatetype:  SimpleBlockState
+contentid:       emc_ore
+title:           EMC Ore
+texture:         textures/emc_ore.png
+
+droptype:        Item
+drops:           jamtem:emc_1
+dropcount:       1
+
+hardness:          ${mc.diamond_ore.hardness}
+resistance:        ${mc.diamond_ore.resistance}
+material:          STONE
+toolclass:         PICKAXES
+toollevel:         3
+requiresTool:      .requiresTool()
+sounds:            STONE

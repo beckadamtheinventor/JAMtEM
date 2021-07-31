@@ -1,0 +1,13 @@
+@:            recipe
+contentid:    emc_1
+recipe:       ShapelessRecipe
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
++ingredients: jamtem:emc_0
+result:       jamtem:emc_1
+count:        1
